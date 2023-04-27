@@ -1,0 +1,13 @@
+.about {
+    text-align: center;
+}
+
+.about h1 {
+    margin-bottom: 1em;
+    font-size: 2em;
+}
+
+.about p {
+    margin-bottom: 1.5em;
+    word-spacing: 0.1em;
+}
